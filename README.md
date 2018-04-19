@@ -1,5 +1,7 @@
 # colorCube
-# maked by Makarov Aleksandr
-# 04.19.2018
+maked by Makarov Aleksandr
+04.19.2018
 
-# that program make 3d histogram cube with nivagation
+that program make 3d histogram cube with nivagation
+
+additional libs: openGL, GLFW, GLEW, openCV, OLM.
